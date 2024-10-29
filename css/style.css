@@ -25,6 +25,7 @@ ul {
     text-align: center;
     border: 1px solid lightgreen;
     border-radius: 100%;
+    color: lightgreen;
     
 }
 
@@ -36,6 +37,7 @@ ul {
     text-align: center;
     border: 1px solid red;
     border-radius: 100%;
+    color: red;
     
 }
 
