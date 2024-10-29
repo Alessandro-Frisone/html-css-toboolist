@@ -28,6 +28,17 @@ ul {
     
 }
 
+.circle-red {
+    display: inline-block;
+    height: 17px;
+    width: 17px;
+    line-height: 17px; 
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 100%;
+    
+}
+
 .btn {
     background-color: transparent;
     border: 1px solid;
@@ -58,6 +69,19 @@ ul {
 .tag-blue {
     background-color:  #14AAF5;
 }
+
+.tag-purple {
+    background-color:  #ab5de6;
+}
+
+.tag-green {
+    background-color:  #2CC6AB;
+}
+
+.tag-orange {
+    background-color:  #FF9B00;
+}
+
 
 /* HEADER */
 
