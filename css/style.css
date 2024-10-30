@@ -46,6 +46,7 @@ ul {
     border: 1px solid;
     padding: 8px;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .btn-1 {
